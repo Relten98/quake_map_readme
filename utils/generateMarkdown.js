@@ -12,15 +12,17 @@ Author:         ${answers.author}
 Description:    ${answers.description} 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Single Player	  ${answers.singleplayer}
+
 Cooperative:	    ${answers.coop}
-Tourney:          ${answers.tourney}
-Deathmatch:       ${answers.deathmatch}
+
 Monster Count: ${answers.monsterCount}
 Secret Count:     ${answers.secretCount}    
 
+Tourney:          ${answers.tourney}
+Deathmatch:       ${answers.deathmatch}
+
 Team deathmatch:  ${answers.tdm}
 CTF:              ${answers.ctf}
-Monster Count: ${answers.monsterCount}
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Designed for the Quakespasm engine.

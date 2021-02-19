@@ -150,6 +150,11 @@ function userQuestions() {
         message: "Build time",
     },
     {
+        type: "input",
+        name: "specialThanks",
+        message: "Any other people you'd like to thank?",
+    },
+    {
         type: "list",
         name: "distro",
         message: "Players ___ make changes, or redistribute",
